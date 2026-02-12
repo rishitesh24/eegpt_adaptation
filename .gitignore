@@ -1,0 +1,17 @@
+# Python Artifacts
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Data & Checkpoints (NEVER UPLOAD THESE)
+raw_data/
+processed_data/
+checkpoints/
+*.edf
+*.npz
+*.pt
+*.ckpt
+
+# Environment
+venv/
+.env
